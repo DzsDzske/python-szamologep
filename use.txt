@@ -2,4 +2,6 @@
 2. Lépés add meg az első számot
 3. Lépés add meg a második számot
 
+Nem önmagában futtatható!
+
 Készítette: DzsDzske
